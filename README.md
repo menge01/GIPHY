@@ -9,4 +9,8 @@ Enter a term into the search box. As you enter terms into the search box, button
        .JavaScript to make the page dynamic
        .jQuery for Dom Manipulation
        .AJAX for API GET requests
+       
+       
+       ![Capture](https://user-images.githubusercontent.com/39536292/56622354-b20f7700-65fd-11e9-89f3-18fdb1702bd1.GIF)
+
 
