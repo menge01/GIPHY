@@ -9,7 +9,9 @@ Enter a term into the search box. As you enter terms into the search box, button
        .JavaScript to make the page dynamic
        .jQuery for Dom Manipulation
        .AJAX for API GET requests
-       . this is the link : https://menge01.github.io/GIPHYHOMEWORK/
+   link : https://menge01.github.io/GIPHYHOMEWORK/
+       
+       
        
    ![Capture2](https://user-images.githubusercontent.com/39536292/56622598-bdaf6d80-65fe-11e9-984e-140180b54c91.GIF)
 
