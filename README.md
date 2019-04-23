@@ -11,7 +11,7 @@ Enter a term into the search box. As you enter terms into the search box, button
        .AJAX for API GET requests
        . this is the link : https://menge01.github.io/GIPHYHOMEWORK/
        
-     ![Capture](https://user-images.githubusercontent.com/39536292/56622470-4bd72400-65fe-11e9-8c73-f9b7004ad8ea.GIF)
+   ![Capture2](https://user-images.githubusercontent.com/39536292/56622598-bdaf6d80-65fe-11e9-984e-140180b54c91.GIF)
 
 
 
